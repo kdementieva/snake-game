@@ -77,7 +77,7 @@ class Program
 
 
 
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Green;
 
             for (int i = 0; i < screenwidth; i++)
 
